@@ -50,4 +50,4 @@ css、js——这里主要参考了网络上的源码
 5.主页上显示的用户信息采用了分页算法   
   
 （五）界面预览  
-![image](https://github.com/xyn1201/StuInfoManageSystem/images/stuinfo_surface_01.png)  
+![image](https://github.com/xyn1201/StuInfoManageSystem/blob/main/images/stuinfo_surface_01.png)  
