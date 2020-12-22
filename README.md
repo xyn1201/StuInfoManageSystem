@@ -1,8 +1,8 @@
 # StuInfoManageSystem
-大四「Web应用程序设计与开发」课程大作业
+大四「Web应用程序设计与开发」课程大作业  
 源代码参考https://github.com/zxhjames/PhpStudentManageSystem  
-几个月的本科课程学习时间，仅在源码上作了细微的修改，不足之处还请多指教
-同时感谢提供源码的作者zxhjames！！
+几个月的本科课程学习时间，仅在源码上作了细微的修改，不足之处还请多指教  
+同时感谢提供源码的作者zxhjames！！  
   
 （一）  
 我建立了stu_db数据库，其中包括三个数据表：  
