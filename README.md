@@ -48,3 +48,6 @@ css、js——这里主要参考了网络上的源码
 3.给所有分页面都添加了“HOME”用于返回主页面。  
 4.增加更多的HTML 元素使页面更便于使用  
 5.主页上显示的用户信息采用了分页算法   
+  
+（五）界面预览  
+![image](https://github.com/xyn1201/StuInfoManageSystem/images/stuinfo_surface_01.png)  
